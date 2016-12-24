@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+h2{
+
+    color: #8600b3;
+	font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+	text-align: center;	
+}	
+
+body {
+	text-align: center;
+	font-family: Dayrom, serif;
+    font-size: 1em;
+    margin-top: 0px;
+    font-weight: normal;
+	border: groove 10px;
+}
+
+input[type="submit"]{
+      background: #cc0052;
+      color: white;
+    }
+	nav{
+	text-align: center;
+	font-family: Dayrom, serif;
+    font-size: 1em;
+    margin-top: 0px;
+    font-weight: normal;
+}
+	input{
+      border: groove 3px;
+      padding: 10px;
+      font-size: 13px;
+    }
+	
+	article {
+	color: red;
+	text-align: left;
+}
+	
